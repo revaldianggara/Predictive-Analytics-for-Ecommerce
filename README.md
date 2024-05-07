@@ -26,5 +26,5 @@ python3 data_preprocess.py
 python3 modeling.py
 ```
 
-5. For trial & error, you can use the jupyter notebook filter which has already created the execution sequence
+5. For trial & error, you can use the jupyter notebook file which has already created the execution sequence
 
