@@ -4,6 +4,7 @@
 
 **requirements**
 PHP version 8.3.1
+
 turn on pdo sqlite3 on php.ini
 
 1. Open terminal in the root of this project and do following command:
