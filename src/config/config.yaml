@@ -17,7 +17,7 @@ test_set_path:
 - data/output/y_test.pkl
 
 # Preprocessing related
-output_column: product_id
+output_column: category_encoded
 seed: 42
 test_size: 0.2
 standardizer_path : data/output/standardizer.pkl
