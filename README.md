@@ -3,6 +3,7 @@
 ## Installation for frontend
 
 **requirements**
+
 PHP version 8.3.1
 
 turn on pdo sqlite3 on php.ini
