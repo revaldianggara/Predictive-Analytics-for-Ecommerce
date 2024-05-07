@@ -1,7 +1,11 @@
 # Predictive Analytics for E-Commerce
 
 ## Installation for frontend
-# Laravel Starter Project
+
+**requirements**
+PHP version 8.3.1
+turn on pdo sqlite3 on php.ini
+
 1. Open terminal in the root of this project and do following command:
 ~~~
 install.sh
@@ -44,4 +48,5 @@ python3 modeling.py
 ```
 
 5. For trial & error, you can use the jupyter notebook file which has already created the execution sequence
+##
 
