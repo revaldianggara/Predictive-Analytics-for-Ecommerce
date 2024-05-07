@@ -9,7 +9,7 @@
 conda create --name skilvul python=3.11
 conda activate skilvul
 ```
-You can change the <skilvul> as you like
+You can change the env {skilvul} as you like
 
 3. Install dependencies.
 ```
