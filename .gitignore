@@ -1,9 +1,9 @@
 *__pycache__
 *.ipynb_checkpoints
-data/
-models/
+# data/
+# models/
 log/
 src/*__pycache__
-src/data/
-src/models/
-src/log/
+# src/data/
+# src/models/
+# src/log/
