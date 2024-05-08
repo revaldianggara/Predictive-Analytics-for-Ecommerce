@@ -52,3 +52,15 @@ python3 modeling.py
 5. For trial & error, you can use the jupyter notebook file which has already created the execution sequence
 ##
 
+## login webapp
+```
+cd predictive-analytics-for-ecommerce/front
+php artisan serve
+```
+
+direct to 127.0.0.0:8000/admin
+
+Access
+1. username: superadmin
+2. pwd: 123
+
